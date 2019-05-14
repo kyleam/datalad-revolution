@@ -12,6 +12,12 @@ command_suite = (
     "DataLad revolutionary command suite",
     [
         (
+            'datalad_revolution.revsave',
+            'RevSave',
+            'rev-save',
+            'rev_save'
+        ),
+        (
             'datalad_revolution.revcreate',
             'RevCreate',
             'rev-create',
