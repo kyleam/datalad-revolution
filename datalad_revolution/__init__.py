@@ -29,6 +29,12 @@ command_suite = (
             'rev-diff',
             'rev_diff'
         ),
+        (
+            'datalad_revolution.revrun',
+            'RevRun',
+            'rev-run',
+            'rev_run'
+        ),
     ]
 )
 
